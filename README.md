@@ -4,17 +4,7 @@
 # HTML2EXE
 
 ## Uso
-
 Símplemente descargue la última compilación del ejecutable desde [aquí](tinyurl.com/HTML2EXE-download) y úselo de acuerdo a las instrucciones. Al ejecutarlo sin argumentos aparecerá esto en la terminal:
--------------------------------------------
-HTML2EXE - Creado por Jgc7
-1.0.0 (github.com/Jgc777/HTML2EXE)
-
-nw.js (o node-webkit) 0.85.0 (nwjs.io)
-Bat To Exe Converter 3.2 (f2ko.de)
-7-zip 9.20 (7-zip.org)
--------------------------------------------
-
 Uso:
 .html2.exe [html] (o arrastrar su html a .html2.exe)
 
@@ -29,7 +19,6 @@ obtenga el recurso imagen.png desde esa carpeta va a necesitar obtenerlo con est
 ./imagen.png
 
 ## Recompilar
-
 Si usted no se fía de la seguridad del programa puede usar el script COmpilar.html2.exe.bat tras revisar el código (o modificarlo) para compilar el programa. Todas las dependencias son obtenidas de fuentes seguras al compilar excepto Bat To Exe Converter, desccarga que no he podido automatizar.
 
 ## Por añadir
