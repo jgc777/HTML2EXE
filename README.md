@@ -23,7 +23,6 @@ Si usted no se fía de la seguridad del programa puede usar el script COmpilar.h
 
 ## Por añadir
 
-- Crear un icono
 - Ocultar la ventana de la terminal en el ejecutable generado sin generar falsas detecciones de antiviruses
 - Añadir más opciones en la línea de comandos
 - Automatizar la descarga de "Bat To Exe Converter"
