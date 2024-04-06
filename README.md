@@ -1,6 +1,3 @@
-- [(WWW)](http://tinyurl.com/HTML2EXE-web)
-- [(Github)](http://tinyurl.com/HTML2EXE)
-
 # HTML2EXE
 
 ## Uso
