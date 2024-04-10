@@ -18,7 +18,7 @@ obtenga el recurso imagen.png desde esa carpeta va a necesitar obtenerlo con est
 ./imagen.png
 
 ## Recompilar
-Si usted no se fía de la seguridad del programa puede usar el script COmpilar.html2.exe.bat tras revisar el código (o modificarlo) para compilar el programa. Todas las dependencias son obtenidas de fuentes seguras al compilar excepto Bat To Exe Converter, descarga que no he podido automatizar.
+Si usted no se fía de la seguridad del programa puede usar el script Compilar.html2.exe.bat tras revisar el código (o modificarlo) para compilar el programa. Todas las dependencias son obtenidas de fuentes seguras al compilar excepto Bat To Exe Converter, descarga que no he podido automatizar.
 
 ## Por añadir
 
