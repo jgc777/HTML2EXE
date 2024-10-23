@@ -1,6 +1,6 @@
 # HTML2EXE
 
-Convierte archivos .html o compatibles con Chromium a ejecutables portables para Windows (x64).
+Convierte archivos .html o compatibles con Chromium a ejecutables portables para Windows (x64) gracias a NW.js.
 
 ## Uso
 Símplemente descargue la última compilación del ejecutable desde [aquí](tinyurl.com/HTML2EXE-download) y úselo de acuerdo a las instrucciones. Al ejecutarlo sin argumentos aparecerá esto en la terminal:
