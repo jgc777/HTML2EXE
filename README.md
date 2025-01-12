@@ -19,3 +19,5 @@
 - Añadir más opciones en la línea de comandos
 - Automatizar la descarga de "Bat To Exe Converter"
 - Menos tamaño
+## Licencia
+[![License](https://img.shields.io/github/license/jgc777/HTML2EXE?style=for-the-badge)](./LICENSE)
