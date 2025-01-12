@@ -1,4 +1,6 @@
 # HTML2EXE
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
  Convierte archivos .html o compatibles con Chromium a ejecutables portables para Windows (x64) gracias a NW.js. Tengo que reescribir esto completamente ya que ocupa demasiado espacio y no es nada eficiente.
 ## Uso
  Símplemente descargue la última compilación del ejecutable desde [aquí](https://mega.nz/file/ar4lyBCK#ew99JnjTvG0_X4xHLUN7NOaWQfHrw6snF6F72VJr2XA) y úselo de acuerdo a las instrucciones.
