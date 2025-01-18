@@ -1,5 +1,7 @@
 # HTML2EXE
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![NW.js](https://img.shields.io/badge/nw.js-gray?style=for-the-badge)
+![Converter](https://img.shields.io/badge/converter-gray?style=for-the-badge)
 [![License](https://img.shields.io/github/license/jgc777/HTML2EXE?style=for-the-badge)](./LICENSE)
 
  Convierte archivos .html o compatibles con Chromium a ejecutables portables para Windows (x64) gracias a NW.js. Tengo que reescribir esto completamente ya que ocupa demasiado espacio y no es nada eficiente.
