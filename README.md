@@ -4,6 +4,10 @@
 ![Converter](https://img.shields.io/badge/converter-gray?style=for-the-badge)
 [![License](https://img.shields.io/github/license/jgc777/HTML2EXE?style=for-the-badge)](./LICENSE)
 
+
+> [!TIP]
+> Este programa no está optimizado. Si no necesitas nw.js, considera utilizar [HTML2EXE 2.0](https://jgc.corefn.xyz/HTML2EXE-2.0/)
+
  Convierte archivos .html o compatibles con Chromium a ejecutables portables para Windows (x64) gracias a NW.js. Tengo que reescribir esto completamente ya que ocupa demasiado espacio y no es nada eficiente.
 ## Uso
  Símplemente descargue la última compilación del ejecutable desde [aquí](https://mega.nz/file/ar4lyBCK#ew99JnjTvG0_X4xHLUN7NOaWQfHrw6snF6F72VJr2XA) y úselo de acuerdo a las instrucciones.
