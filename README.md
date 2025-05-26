@@ -6,7 +6,7 @@
 
 
 > [!TIP]
-> Este programa no está optimizado. Si no necesitas nw.js, considera utilizar [HTML2EXE 2.0](https://jgc.corefn.xyz/HTML2EXE-2.0/)
+> Este programa no está optimizado. Si no necesitas nw.js, considera utilizar [HTML2EXE 2.0](https://jgc777.github.io/HTML2EXE-2.0/)
 
  Convierte archivos .html o compatibles con Chromium a ejecutables portables para Windows (x64) gracias a NW.js. Tengo que reescribir esto completamente ya que ocupa demasiado espacio y no es nada eficiente.
 ## Uso
